@@ -101,7 +101,7 @@ function PlannerContent() {
           <div className="py-20 flex flex-col items-center justify-center text-center">
             <Loader2 className={`w-16 h-16 animate-spin mb-6 ${theme.accent}`} />
             <h3 className="text-2xl font-bold mb-2">Curating your experience...</h3>
-            <p className="opacity-60 max-w-md">Gemini is currently writing a bespoke {duration} itinerary for {location}. This takes about 5-10 seconds.</p>
+            <p className="opacity-60 max-w-md">VibePlanner is currently writing a bespoke {duration} itinerary for {location}. This takes about 5-10 seconds.</p>
           </div>
         )}
 
