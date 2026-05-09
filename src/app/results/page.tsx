@@ -137,7 +137,7 @@ function ResultsContent() {
                 <Sparkles className={`w-8 h-8 shrink-0 mt-1 ${theme.accent}`} />
                 <div>
                   <h3 className="text-sm font-bold uppercase tracking-widest opacity-50 mb-2">
-                    Gemini AI Vibe Check
+                    Vibe Check
                   </h3>
                   <p className="text-lg md:text-2xl font-medium leading-relaxed italic opacity-90">
                     "{summary}"
